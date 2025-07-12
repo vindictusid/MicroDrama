@@ -56,6 +56,13 @@
     "allowOffline": true
   },
   {
+    "id": "4ffe87b32482c5ce",
+    "username": "6282195942711",
+    "password": "microdrama",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
